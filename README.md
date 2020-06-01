@@ -22,4 +22,4 @@ bash instabot.sh
 ### Donate!
 Support the authors:
 YouTube 
-https://youtybe.com/Hackerwasi
+http://www.youtube.com/Hackerwasi
