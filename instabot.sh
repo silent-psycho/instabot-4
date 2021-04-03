@@ -1,6 +1,6 @@
 #!/bin/bash
 # Inshackle v1.0
-# coded by: @Hacker_wais
+# coded by:@Hacker_wais
 # github.com/zahrairshad/instabot.git
 # If you use any part from this code, give me the credits, please, read the License
 
